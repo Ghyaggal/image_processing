@@ -1,0 +1,139 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Histgram_EQ/verilog/prj/simulation/modelsim
+T_opt
+!s110 1694942087
+VYgE478FM`4SAkVLRP53;13
+04 4 4 work test fast 0
+=1-b068e677ce01-6506c386-26a-42c8
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vhist_stat
+Z2 !s110 1694942085
+!i10b 1
+!s100 S7]mfUI6_lfX4Bi0_C??=1
+!s11b cVcZ_kWDHJJcBSghX7>371
+I]^`MXb;k75=hPNYih:R_40
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694942029
+8E:/image/image_processing/Histgram_EQ/verilog/rtl/hist_stat.v
+FE:/image/image_processing/Histgram_EQ/verilog/rtl/hist_stat.v
+L0 1
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1694942085.000000
+!s107 E:/image/image_processing/Histgram_EQ/verilog/rtl/hist_stat.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Histgram_EQ/verilog/rtl|E:/image/image_processing/Histgram_EQ/verilog/rtl/hist_stat.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/image/image_processing/Histgram_EQ/verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vhistEQ_proc
+Z8 !s110 1694942084
+!i10b 1
+!s100 1ajj;[:;h9k`hz=1`5Y0?0
+!s11b YNUeaL<_^oGAchCQ53Cc13
+IFZ5N;LXB6h4AlD>XcPam81
+R3
+R0
+w1694941935
+8E:/image/image_processing/Histgram_EQ/verilog/rtl/histEQ_proc.v
+FE:/image/image_processing/Histgram_EQ/verilog/rtl/histEQ_proc.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1694942084.000000
+!s107 E:/image/image_processing/Histgram_EQ/verilog/rtl/histEQ_proc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Histgram_EQ/verilog/rtl|E:/image/image_processing/Histgram_EQ/verilog/rtl/histEQ_proc.v|
+!i113 0
+R6
+R7
+R1
+nhist@e@q_proc
+vimage_HistEQ
+R8
+!i10b 1
+!s100 4]:C2f^In`X`2>9dK<S<62
+!s11b DbiaGJ0Jd_F2HMGf=>ZQN2
+I`PQ3BgjfL:623^`I9J8De0
+R3
+R0
+w1694936952
+8E:/image/image_processing/Histgram_EQ/verilog/rtl/image_HistEQ.v
+FE:/image/image_processing/Histgram_EQ/verilog/rtl/image_HistEQ.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/image/image_processing/Histgram_EQ/verilog/rtl/image_HistEQ.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Histgram_EQ/verilog/rtl|E:/image/image_processing/Histgram_EQ/verilog/rtl/image_HistEQ.v|
+!i113 0
+R6
+R7
+R1
+nimage_@hist@e@q
+vram_dual_port
+R8
+!i10b 1
+!s100 M^d_Y63iFzo9o`B`0SD;o0
+!s11b :6c88YX^YYiV;LDm5PBe31
+IGz?47TWk2R212nmel<[^z1
+R3
+R0
+w1694941954
+8E:/image/image_processing/Histgram_EQ/verilog/rtl/ram_dual_port.v
+FE:/image/image_processing/Histgram_EQ/verilog/rtl/ram_dual_port.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/image/image_processing/Histgram_EQ/verilog/rtl/ram_dual_port.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Histgram_EQ/verilog/rtl|E:/image/image_processing/Histgram_EQ/verilog/rtl/ram_dual_port.v|
+!i113 0
+R6
+R7
+R1
+vtest
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 gfkHl^3i?G3g1j]cU9f`U0
+!s11b Oc5_49?=e`YH;j6KMjPGP2
+IoLJlgK`l0=d[nJ7LCf:kF2
+R3
+S1
+R0
+w1694936561
+8E:/image/image_processing/Histgram_EQ/verilog/prj/../sim/test.sv
+FE:/image/image_processing/Histgram_EQ/verilog/prj/../sim/test.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Histgram_EQ/verilog/prj/../sim/test.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Histgram_EQ/verilog/prj/../sim|E:/image/image_processing/Histgram_EQ/verilog/prj/../sim/test.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Histgram_EQ/verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
