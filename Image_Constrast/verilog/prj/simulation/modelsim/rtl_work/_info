@@ -1,0 +1,69 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Image_Constrast/verilog/prj/simulation/modelsim
+T_opt
+!s110 1695048231
+VQR>o^21<M1T;PQTmX9R`f1
+04 9 4 work testbench fast 0
+=1-b068e677ce01-65086225-1bf-3384
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vCurve_Contrast_Array
+Z2 !s110 1695048227
+!i10b 1
+!s100 ?:X2;i34azh]LYEb]K4^<0
+!s11b 0?]483_VYUc8Z<bV<ZWG[0
+IgEhc@3Pj1E_fE`2XQbQU60
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695048166
+8E:/image/image_processing/Image_Constrast/verilog/rtl/Curve_Contrast_Array.v
+FE:/image/image_processing/Image_Constrast/verilog/rtl/Curve_Contrast_Array.v
+L0 2
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1695048227.000000
+!s107 E:/image/image_processing/Image_Constrast/verilog/rtl/Curve_Contrast_Array.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Image_Constrast/verilog/rtl|E:/image/image_processing/Image_Constrast/verilog/rtl/Curve_Contrast_Array.v|
+!i113 0
+o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+E:/image/image_processing/Image_Constrast/verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@curve_@contrast_@array
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 9KL>?HfNUP[@zK<z`<WZP1
+!s11b e2X9Xl`<feUm<F6cHgidX3
+Im6=aIiVHD<b3H01^3hKlc3
+R3
+S1
+R0
+w1695046555
+8E:/image/image_processing/Image_Constrast/verilog/prj/../sim/testbench.sv
+FE:/image/image_processing/Image_Constrast/verilog/prj/../sim/testbench.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Image_Constrast/verilog/prj/../sim/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Image_Constrast/verilog/prj/../sim|E:/image/image_processing/Image_Constrast/verilog/prj/../sim/testbench.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Image_Constrast/verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

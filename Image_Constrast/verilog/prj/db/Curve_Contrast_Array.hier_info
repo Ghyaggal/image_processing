@@ -1,0 +1,19 @@
+|Curve_Contrast_Array
+Pre_Data[0] => Ram0.RADDR
+Pre_Data[1] => Ram0.RADDR1
+Pre_Data[2] => Ram0.RADDR2
+Pre_Data[3] => Ram0.RADDR3
+Pre_Data[4] => Ram0.RADDR4
+Pre_Data[5] => Ram0.RADDR5
+Pre_Data[6] => Ram0.RADDR6
+Pre_Data[7] => Ram0.RADDR7
+Post_Data[0] <= Ram0.DATAOUT
+Post_Data[1] <= Ram0.DATAOUT1
+Post_Data[2] <= Ram0.DATAOUT2
+Post_Data[3] <= Ram0.DATAOUT3
+Post_Data[4] <= Ram0.DATAOUT4
+Post_Data[5] <= Ram0.DATAOUT5
+Post_Data[6] <= Ram0.DATAOUT6
+Post_Data[7] <= Ram0.DATAOUT7
+
+
