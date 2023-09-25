@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Med_Filter/verilog/prj/simulation/modelsim
+T_opt
+!s110 1695635528
+VbCP00JGC7GPPO@U5DVVHk1
+04 9 4 work testbench fast 0
+=1-e454e8339443-65115847-13e-1600
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vMatrix_Generate_3x3_8Bit
+Z2 !s110 1695635526
+!i10b 1
+!s100 CN@ohY4:g6aCjP]zWHHTI1
+!s11b 2Xb5oO;1C7HMHEWT:T[:c2
+IC1dFjj@U:<FNSC=CheS9l1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695562529
+8E:/image/image_processing/Med_Filter/verilog/rtl/Matrix_Generate_3x3_8Bit.v
+FE:/image/image_processing/Med_Filter/verilog/rtl/Matrix_Generate_3x3_8Bit.v
+L0 1
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1695635526.000000
+!s107 E:/image/image_processing/Med_Filter/verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Med_Filter/verilog/rtl|E:/image/image_processing/Med_Filter/verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/image/image_processing/Med_Filter/verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@matrix_@generate_3x3_8@bit
+vmed_filter_proc
+Z8 !s110 1695635525
+!i10b 1
+!s100 =EDoc[Y;DKzEZHAYHZjaR1
+!s11b FVI_O0T6b2fJoh3UdU;343
+I>GdlP>eL^]MJRMIKRX9a61
+R3
+R0
+w1695635495
+8E:/image/image_processing/Med_Filter/verilog/rtl/med_filter_proc.v
+FE:/image/image_processing/Med_Filter/verilog/rtl/med_filter_proc.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1695635525.000000
+!s107 E:/image/image_processing/Med_Filter/verilog/rtl/med_filter_proc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Med_Filter/verilog/rtl|E:/image/image_processing/Med_Filter/verilog/rtl/med_filter_proc.v|
+!i113 0
+R6
+R7
+R1
+vsync_fifo
+R8
+!i10b 1
+!s100 :XCGG@Vj^LPTBWS74[h2M3
+!s11b ;?RzQ?2G>N:N<IJ0^[mfN1
+IEM[?QO80?M@aREPAYO^Pi2
+R3
+R0
+w1695558408
+8E:/image/image_processing/Med_Filter/verilog/rtl/sync_fifo.v
+FE:/image/image_processing/Med_Filter/verilog/rtl/sync_fifo.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/image/image_processing/Med_Filter/verilog/rtl/sync_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Med_Filter/verilog/rtl|E:/image/image_processing/Med_Filter/verilog/rtl/sync_fifo.v|
+!i113 0
+R6
+R7
+R1
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 7Jo9E558]O0hnJf^P>RPk2
+!s11b d[R[`Bc_PbzD<jTzlI9VY3
+I6j9JPHQg04:d@S>d55l`82
+R3
+S1
+R0
+w1695633064
+8E:/image/image_processing/Med_Filter/verilog/prj/../sim/testbench.sv
+FE:/image/image_processing/Med_Filter/verilog/prj/../sim/testbench.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Med_Filter/verilog/prj/../sim/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Med_Filter/verilog/prj/../sim|E:/image/image_processing/Med_Filter/verilog/prj/../sim/testbench.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Med_Filter/verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
