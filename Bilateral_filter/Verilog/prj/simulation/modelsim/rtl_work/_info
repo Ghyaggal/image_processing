@@ -1,0 +1,140 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Bilateral_filter/Verilog/prj/simulation/modelsim
+T_opt
+!s110 1696755393
+VL8`3gohKGil9H64g>8Fd:3
+04 9 4 work testbench fast 0
+=1-b068e677ce01-65226ebf-d2-4a84
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vBilateral_Filter
+Z2 !s110 1696755389
+!i10b 1
+!s100 ?`bjz7HT0GST;fk1A2`n?3
+!s11b zmbZMXc`K]g6DC@UR]KVg1
+I>BPzaD^=9lF7O5h2J0<5V3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1696755249
+8E:/image/image_processing/Bilateral_filter/Verilog/rtl/Bilateral_Filter.v
+FE:/image/image_processing/Bilateral_filter/Verilog/rtl/Bilateral_Filter.v
+L0 1
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1696755389.000000
+!s107 E:/image/image_processing/Bilateral_filter/Verilog/rtl/Bilateral_Filter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bilateral_filter/Verilog/rtl|E:/image/image_processing/Bilateral_filter/Verilog/rtl/Bilateral_Filter.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/image/image_processing/Bilateral_filter/Verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@bilateral_@filter
+vMatrix_Generate_3x3_8Bit
+R2
+!i10b 1
+!s100 CN@ohY4:g6aCjP]zWHHTI1
+!s11b 2Xb5oO;1C7HMHEWT:T[:c2
+I@=kUYYmEWKaUSgISSdUF73
+R3
+R0
+w1695562529
+8E:/image/image_processing/Bilateral_filter/Verilog/rtl/Matrix_Generate_3x3_8Bit.v
+FE:/image/image_processing/Bilateral_filter/Verilog/rtl/Matrix_Generate_3x3_8Bit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Bilateral_filter/Verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bilateral_filter/Verilog/rtl|E:/image/image_processing/Bilateral_filter/Verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!i113 0
+R6
+R7
+R1
+n@matrix_@generate_3x3_8@bit
+vSimilary_LUT
+R2
+!i10b 1
+!s100 fGPcMLNAhO9bO^1][RFZ00
+!s11b 8?0FELY9DIPUa4gG;Z4U63
+IHhE2P9L5zEA;`le>]RZaT2
+R3
+R0
+w1696733224
+8E:/image/image_processing/Bilateral_filter/Verilog/rtl/Similary_LUT.v
+FE:/image/image_processing/Bilateral_filter/Verilog/rtl/Similary_LUT.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Bilateral_filter/Verilog/rtl/Similary_LUT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bilateral_filter/Verilog/rtl|E:/image/image_processing/Bilateral_filter/Verilog/rtl/Similary_LUT.v|
+!i113 0
+R6
+R7
+R1
+n@similary_@l@u@t
+vsync_fifo
+!s110 1696755388
+!i10b 1
+!s100 :XCGG@Vj^LPTBWS74[h2M3
+!s11b ;?RzQ?2G>N:N<IJ0^[mfN1
+I?G`o`S1Y^YiIM[En0OoPV1
+R3
+R0
+w1695558408
+8E:/image/image_processing/Bilateral_filter/Verilog/rtl/sync_fifo.v
+FE:/image/image_processing/Bilateral_filter/Verilog/rtl/sync_fifo.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1696755388.000000
+!s107 E:/image/image_processing/Bilateral_filter/Verilog/rtl/sync_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bilateral_filter/Verilog/rtl|E:/image/image_processing/Bilateral_filter/Verilog/rtl/sync_fifo.v|
+!i113 0
+R6
+R7
+R1
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1696755390
+!i10b 1
+!s100 IdO2;A:k20V^RHG:Sj:2Z1
+!s11b 9KJ[`Pc>[kbn]_[BYne=n0
+ITYNTH12MWiW@caUedD77m1
+R3
+S1
+R0
+w1696755345
+8E:/image/image_processing/Bilateral_filter/Verilog/prj/../sim/testbench.sv
+FE:/image/image_processing/Bilateral_filter/Verilog/prj/../sim/testbench.sv
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1696755390.000000
+!s107 E:/image/image_processing/Bilateral_filter/Verilog/prj/../sim/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Bilateral_filter/Verilog/prj/../sim|E:/image/image_processing/Bilateral_filter/Verilog/prj/../sim/testbench.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Bilateral_filter/Verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
