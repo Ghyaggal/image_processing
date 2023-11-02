@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/image/image_processing/Region_Binarization/Verilog/prj/simulation/modelsim
 vio_buf_opdrn
-Z1 !s110 1696850227
+Z1 !s110 1698232814
 !i10b 1
 !s100 o>nz1>Xc50eF;H7j8]Lef2
 !s11b 82Z<fJ>P0R298bEb[D[KA0
@@ -25,7 +25,7 @@ Z6 OL;L;2019.2;69
 r1
 !s85 0
 31
-Z7 !s108 1696850227.000000
+Z7 !s108 1698232814.000000
 !s107 d:/quartus/quartus/eda/sim_lib/sgate.v|
 Z8 !s90 -reportprogress|300|-vlog01compat|-work|sgate_ver|d:/quartus/quartus/eda/sim_lib/sgate.v|
 !i113 0

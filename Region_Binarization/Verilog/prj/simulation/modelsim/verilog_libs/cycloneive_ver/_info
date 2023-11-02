@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/image/image_processing/Region_Binarization/Verilog/prj/simulation/modelsim
 vcycloneive_and1
-Z1 !s110 1696850230
+Z1 !s110 1698232818
 !i10b 1
 !s100 B=Q<OS[gnK0j2NHn5;eV_1
 !s11b =bA[LQQ8`Kz?o7O>YBV1>0
@@ -25,7 +25,7 @@ Z6 OL;L;2019.2;69
 r1
 !s85 0
 31
-Z7 !s108 1696850230.000000
+Z7 !s108 1698232817.000000
 !s107 d:/quartus/quartus/eda/sim_lib/cycloneive_atoms.v|
 Z8 !s90 -reportprogress|300|-vlog01compat|-work|cycloneive_ver|d:/quartus/quartus/eda/sim_lib/cycloneive_atoms.v|
 !i113 0

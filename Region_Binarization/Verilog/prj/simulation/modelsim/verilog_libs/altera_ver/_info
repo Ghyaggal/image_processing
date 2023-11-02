@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/image/image_processing/Region_Binarization/Verilog/prj/simulation/modelsim
 valt_bidir_buf
-Z1 !s110 1696850226
+Z1 !s110 1698232812
 !i10b 1
 !s100 IMTil^l53STzzcJ`NbRGA1
 !s11b DjA0cXG58zARbWoVVFUm:1
@@ -25,7 +25,7 @@ Z6 OL;L;2019.2;69
 r1
 !s85 0
 31
-Z7 !s108 1696850226.000000
+Z7 !s108 1698232812.000000
 !s107 d:/quartus/quartus/eda/sim_lib/altera_primitives.v|
 Z8 !s90 -reportprogress|300|-vlog01compat|-work|altera_ver|d:/quartus/quartus/eda/sim_lib/altera_primitives.v|
 !i113 0

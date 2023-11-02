@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Sobel/Verilog/prj/simulation/modelsim
+T_opt
+!s110 1698936864
+Vn7m3`VJn;9zZLVH<fY6Fi0
+04 4 4 work test fast 0
+=1-e454e8339443-6543b81f-203-504
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vMatrix_Generate_3x3_8Bit
+Z2 !s110 1698936862
+!i10b 1
+!s100 CN@ohY4:g6aCjP]zWHHTI1
+!s11b 2Xb5oO;1C7HMHEWT:T[:c2
+I1dhBWZ0`D`YFf^bbRnW3S1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695562529
+8E:/image/image_processing/Sobel/Verilog/rtl/Matrix_Generate_3x3_8Bit.v
+FE:/image/image_processing/Sobel/Verilog/rtl/Matrix_Generate_3x3_8Bit.v
+L0 1
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1698936862.000000
+!s107 E:/image/image_processing/Sobel/Verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Sobel/Verilog/rtl|E:/image/image_processing/Sobel/Verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/image/image_processing/Sobel/Verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@matrix_@generate_3x3_8@bit
+vsobel_detector
+Z8 !s110 1698936861
+!i10b 1
+!s100 R?16daQj8Od0:@b7RYEYl3
+!s11b CXC;8]3j;`h:6l4N2bFMC1
+ISfLz<Io=;GD>IR7j`2SJ_2
+R3
+R0
+w1698825096
+8E:/image/image_processing/Sobel/Verilog/rtl/sobel_detector.v
+FE:/image/image_processing/Sobel/Verilog/rtl/sobel_detector.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1698936861.000000
+!s107 E:/image/image_processing/Sobel/Verilog/rtl/sobel_detector.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Sobel/Verilog/rtl|E:/image/image_processing/Sobel/Verilog/rtl/sobel_detector.v|
+!i113 0
+R6
+R7
+R1
+vsqrt
+R8
+!i10b 1
+!s100 hXe:P:noDQFeMWiGV=mnP2
+!s11b @QNLgnBVh?ICMlBVHONYa0
+IL3042YGF8o7lA[ZQU=K3?0
+R3
+R0
+w1698823699
+8E:/image/image_processing/Sobel/Verilog/rtl/sqrt.v
+FE:/image/image_processing/Sobel/Verilog/rtl/sqrt.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/image/image_processing/Sobel/Verilog/rtl/sqrt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Sobel/Verilog/rtl|E:/image/image_processing/Sobel/Verilog/rtl/sqrt.v|
+!i113 0
+R6
+R7
+R1
+vsync_fifo
+!s110 1698936860
+!i10b 1
+!s100 Nn?H=IbZdN7AeUb^87UJ`0
+!s11b ?2U;:Q<`_QUf10854Z7kB2
+IKL<=bETM3EKWg_EN0TeBU3
+R3
+R0
+w1698934605
+8E:/image/image_processing/Sobel/Verilog/rtl/sync_fifo.v
+FE:/image/image_processing/Sobel/Verilog/rtl/sync_fifo.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1698936860.000000
+!s107 E:/image/image_processing/Sobel/Verilog/rtl/sync_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Sobel/Verilog/rtl|E:/image/image_processing/Sobel/Verilog/rtl/sync_fifo.v|
+!i113 0
+R6
+R7
+R1
+vtest
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 Qf<0WmSY?bZ0cPhi[i42?0
+!s11b <eR5M?0=42P[JVz8>fI<23
+IjfQ^B>BjORW6<b=h`Cno73
+R3
+S1
+R0
+w1698827776
+8E:/image/image_processing/Sobel/Verilog/prj/../sim/test.sv
+FE:/image/image_processing/Sobel/Verilog/prj/../sim/test.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Sobel/Verilog/prj/../sim/test.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Sobel/Verilog/prj/../sim|E:/image/image_processing/Sobel/Verilog/prj/../sim/test.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Sobel/Verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

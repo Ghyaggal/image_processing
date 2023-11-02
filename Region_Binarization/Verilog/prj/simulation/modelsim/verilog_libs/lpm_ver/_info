@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dE:/image/image_processing/Region_Binarization/Verilog/prj/simulation/modelsim
 vlpm_abs
-Z1 !s110 1696850227
+Z1 !s110 1698232813
 !i10b 1
 !s100 C1CEPTa>h1KTS35mS<k;H0
 !s11b ^b7bN9[4=I`_;L4gn[RUg0
@@ -25,7 +25,7 @@ Z6 OL;L;2019.2;69
 r1
 !s85 0
 31
-Z7 !s108 1696850226.000000
+Z7 !s108 1698232813.000000
 !s107 d:/quartus/quartus/eda/sim_lib/220model.v|
 Z8 !s90 -reportprogress|300|-vlog01compat|-work|lpm_ver|d:/quartus/quartus/eda/sim_lib/220model.v|
 !i113 0
@@ -54,7 +54,7 @@ R8
 R9
 R10
 vlpm_and
-Z12 !s110 1696850226
+R1
 !i10b 1
 !s100 6US>k_aM>V`gIm78G6DK51
 !s11b 91_7L<_`7RlOaRz4A0IID0
@@ -98,7 +98,7 @@ R8
 R9
 R10
 vlpm_bustri
-R12
+R1
 !i10b 1
 !s100 <bBFgzlMigaS37SY>D0Eb3
 !s11b 2U2>8[735h^a996bj=bcn2
@@ -120,7 +120,7 @@ R8
 R9
 R10
 vlpm_clshift
-R12
+R1
 !i10b 1
 !s100 mgAo9Bza:mgI;iYBa3;@H2
 !s11b CUZ;[bnLHQVcX_3F:5e002
@@ -164,7 +164,7 @@ R8
 R9
 R10
 vlpm_constant
-R12
+R1
 !i10b 1
 !s100 @B?F7>i<OF1WJji3ZI>eC2
 !s11b <OoOWf5<bK^QSH^kT2N@J0
@@ -208,7 +208,7 @@ R8
 R9
 R10
 vlpm_decode
-R12
+R1
 !i10b 1
 !s100 E:Sba3Dl<mWK?;C;i4bY33
 !s11b 0]]VS8`iajbh[VPVn<;]K3
@@ -230,7 +230,7 @@ R8
 R9
 R10
 vLPM_DEVICE_FAMILIES
-R12
+R1
 !i10b 1
 !s100 `HJJfUeLMb6EbH?5PNfm41
 !s11b 4d?hblFX^Q20JECT9EAMz1
@@ -407,7 +407,7 @@ R8
 R9
 R10
 vLPM_HINT_EVALUATION
-R12
+R1
 !i10b 1
 !s100 NPFR3z8=4fn>M;n>NV48<0
 !s11b 2AVJGJcO8Ln_a?]jV>`431
@@ -452,7 +452,7 @@ R8
 R9
 R10
 vlpm_inv
-R12
+R1
 !i10b 1
 !s100 FGPfgzam:OXoQF6X?S?_k3
 !s11b bK2^F]9=hNofDIZloEJn82
@@ -496,7 +496,7 @@ R8
 R9
 R10
 vLPM_MEMORY_INITIALIZATION
-R12
+R1
 !i10b 1
 !s100 PJI5JUzbgPj;Fl1YIj_<A0
 !s11b Vc@5JTeV`3j51[3bRaDfP3
@@ -541,7 +541,7 @@ R8
 R9
 R10
 vlpm_mux
-R12
+R1
 !i10b 1
 !s100 nWRV2DMa2OK9BYBEP:N`F2
 !s11b M8RTU0Q:ekz9YHPZChPX<3
@@ -563,7 +563,7 @@ R8
 R9
 R10
 vlpm_or
-R12
+R1
 !i10b 1
 !s100 K[l42JMQW;gT`[SKb5WK51
 !s11b CI[3MX3fm4daV3>ILJ;SB0
@@ -717,7 +717,7 @@ R8
 R9
 R10
 vlpm_xor
-R12
+R1
 !i10b 1
 !s100 cML8=STi[163AD<INTWj>0
 !s11b EHnRozikkLEc<<i8_@Tza2

@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/simulation/modelsim
+T_opt
+!s110 1698936761
+V>c33TPU^_?1lfS1_GRiBF2
+04 9 4 work testbench fast 0
+=1-e454e8339443-6543b7b8-28d-1570
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2019.2;69
+vbin_compare
+Z2 !s110 1698936759
+!i10b 1
+!s100 Mac>[F09;=Gd03L6B^j]e1
+!s11b `6TTi:cZ0hj0jYG6PGc;62
+IX[FjaPHBGQhbd6W[0^ZJP0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698935140
+8E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/bin_compare.v
+FE:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/bin_compare.v
+L0 1
+Z4 OL;L;2019.2;69
+r1
+!s85 0
+31
+Z5 !s108 1698936759.000000
+!s107 E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/bin_compare.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl|E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/bin_compare.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vMatrix_Generate_3x3_8Bit
+Z8 !s110 1698936758
+!i10b 1
+!s100 hRbhS7kAgW8Xd8mKbG[1>3
+!s11b z]T_mkG[NA[Da?oHB0>oz3
+I?[IJgYUMzCBLfZR?O`Nnj2
+R3
+R0
+w1698934947
+8E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/Matrix_Generate_3x3_8Bit.v
+FE:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/Matrix_Generate_3x3_8Bit.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1698936758.000000
+!s107 E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl|E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/Matrix_Generate_3x3_8Bit.v|
+!i113 0
+R6
+R7
+R1
+n@matrix_@generate_3x3_8@bit
+vsync_fifo
+R8
+!i10b 1
+!s100 Nn?H=IbZdN7AeUb^87UJ`0
+!s11b ?2U;:Q<`_QUf10854Z7kB2
+IUg_86]48daKgO>N>fXibQ2
+R3
+R0
+w1698934605
+8E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/sync_fifo.v
+FE:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/sync_fifo.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/sync_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl|E:/image/image_processing/Bin_Erosion_Dilation/verilog/rtl/sync_fifo.v|
+!i113 0
+R6
+R7
+R1
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 9YfdjSnL=5250OLV2Nce;0
+!s11b <J1lLiB5WPkJLhh10DSBd1
+IP0]DmH4lzh9`0Qg8^b=1M2
+R3
+S1
+R0
+w1698933613
+8E:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim/testbench.sv
+FE:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim/testbench.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim|E:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim/testbench.sv|
+!i113 0
+o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -sv -work work +incdir+E:/image/image_processing/Bin_Erosion_Dilation/verilog/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
